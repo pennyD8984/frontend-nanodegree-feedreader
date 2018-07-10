@@ -1,7 +1,9 @@
 # How to use
-Clone the repository
-*git clone git@github.com:pennyD8984/frontend-nanodegree-feedreader.git*
-Open index.html in your browser
+Clone the repository  
+```git clone git@github.com:pennyD8984/frontend-nanodegree-feedreader.git```  
+
+Open index.html in your browser  
+Want to play around with the tests? The correct file to load is ```jasmine/spec/feedreader.js```  
 
 ### What is this project about?
 This project shows the basics of working with a testing framework (Jasmine) to ensure our JS code will perform as expected.
